@@ -1,3 +1,5 @@
+Music (arm-v7a): 6.45.54  
+Music (arm64-v8a): 6.45.54  
 YouTube: 19.09.37  
 YouTube-Extended: 19.02.39  
 
